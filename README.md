@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif Mahmud Jayem</h1>
-<h3 align="center">Reactjs developer</h3>
+<h3 align="center">MERN developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjayem&label=Profile%20views&color=0e75b6&style=flat" alt="amjayem" /> </p>
 
